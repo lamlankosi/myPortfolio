@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> e8569e8da70897d5883c7279411fd5a3afca3a10
 *,
 *, ::after
 *, ::before{
@@ -6,6 +9,7 @@
     margin: 0%;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 #Home{
     padding-top: 15%;
@@ -69,3 +73,5 @@ h2{
 } 
 
 
+=======
+>>>>>>> e8569e8da70897d5883c7279411fd5a3afca3a10
