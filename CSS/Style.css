@@ -34,7 +34,7 @@ body{
     background-color: #1D3557;; 
     color: white; 
     padding: 10px; 
-    text-align: right; 
+   
   }
 
 .navbar a {
@@ -70,12 +70,25 @@ h2{
   margin-top: 4%;
 } 
 
-.card-body{
-    text-justify: unset;
+.box{
+    gap: 3px;
+    
     background-color: #1D3557;
     color: white;
     
 }
 
+.card{
+    width: 40%;
+}
+
+footer{
+    background-color: #1D3557;  
+}
+
+.box{
+    
+    padding: 3%;
+}
 
 
