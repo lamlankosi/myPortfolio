@@ -34,7 +34,7 @@ body{
     background-color: #1D3557;; 
     color: white; 
     padding: 10px; 
-    text-align: right; 
+   
   }
 
 .navbar a {
@@ -70,6 +70,7 @@ h2{
   margin-top: 4%;
 } 
 
+<<<<<<< HEAD
 #firstcolumn{
     padding: 3%;
     border-radius: 1rem;
@@ -87,9 +88,31 @@ h2{
 #rowthree{
     padding: 3%;
     border-radius: 1rem;
+=======
+.box{
+    gap: 3px;
+    
+>>>>>>> ed7bc3ec498b066827caa58463a4205a38f06951
     background-color: #1D3557;
     color: white;
     
 }
+<<<<<<< HEAD
 .
+=======
+
+.card{
+    width: 40%;
+}
+
+footer{
+    background-color: #1D3557;  
+}
+
+.box{
+    
+    padding: 3%;
+}
+
+>>>>>>> ed7bc3ec498b066827caa58463a4205a38f06951
 
