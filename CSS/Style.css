@@ -25,6 +25,19 @@ body{
     height: 100%;
     border-bottom: 1px solid #1D3557;
 }
+
+ #About{
+    background-color: white;
+}
+
+#Skills{
+    background-color: white;
+}
+
+#Projects{
+    background-color: white;
+}
+
 #About p{
     font-style: italic;
 
@@ -146,6 +159,20 @@ form {
     background-color: #0056b3;
   } 
 
+.button-container {
+    
+    color: #1D3557;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .button-container button {
+    background-color: #F1FAEE;
+    margin-right: 30px; 
+  }
+  
+
+  
  footer{
     padding: 10px 20px;
     height: 80px;
@@ -153,3 +180,5 @@ form {
     color: white; 
 
  }
+
+ 
