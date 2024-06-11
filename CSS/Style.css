@@ -218,15 +218,14 @@ button {
 
  }
 
- /* For screens between 576px and 767.98px (small devices like tablets) */
-@media (min-width: 576px) and (max-width: 767.98px) {
+ @media (min-width: 576px) and (max-width: 767.98px) {
     body {
       font-size: 14px; /* Adjust font size for better readability */
     }
   
     section {
-      padding: 5%; /* Adjust padding for better spacing */
-    }
+      padding: 5%; 
+        }
   
     h1 {
       margin-left: 20%;
@@ -239,13 +238,13 @@ button {
     }
   
     #me {
-      width: 50%; /* Adjust image size for better fit */
-      margin: 0 auto; /* Center the image */
-      display: block; /* Ensure block-level display for centering */
+      width: 50%; 
+      margin: 0 auto;
+      display: block;
     }
   
     .navbar-nav {
-      text-align: center; /* Center align navigation links */
+      text-align: center; 
     }
   
     .navbar-toggler {
