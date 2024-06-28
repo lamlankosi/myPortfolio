@@ -199,12 +199,15 @@ button {
 }
 
 #yakupha{
-    width: 130px;
+    width: 110px;
     border-radius: 5rem;
     border-color: #1D3557;
     border-style: groove;
 }
-  
+
+
+
+
 
   
  footer{
@@ -216,5 +219,50 @@ button {
  }
 
 
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+    body {
+      font-size: 14px; /* Adjust font size for better readability */
+    }
+  
+    section {
+      padding: 5%; 
+        }
+  
+    h1 {
+      margin-left: 20%;
+      margin-top: -15%; /* Adjust margins for better positioning */
+    }
+  
+    h2 {
+      margin-left: 20%;
+      margin-top: 2%;
+    }
+  
+    #me {
+      width: 50%; 
+      margin: 0 auto;
+      display: block;
+    }
+  
+    .navbar-nav {
+      text-align: center; 
+    }
+  
+    .navbar-toggler {
+      margin-right: 10px; /* Adjust spacing for better alignment */
+    }
+  
+    .card {
+      width: 100%; /* Make cards full width for better responsiveness */
+      margin-bottom: 20px;
+    }
+  
+    .button-container {
+      flex-direction: column; /* Arrange buttons vertically */
+      align-items: center; /* Center align buttons */
+    }
+  }
+ 
 
  
